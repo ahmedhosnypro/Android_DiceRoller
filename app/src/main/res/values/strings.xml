@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="hello_android">Hello Android</string>
+    <string name="roll">Roll</string>
+    <string name="one">1</string>
+    <string name="Dice">dice</string>
+</resources>
